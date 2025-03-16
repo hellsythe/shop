@@ -1,5 +1,5 @@
-import Banner from "./ui/banner";
-import TopProducts from "./ui/shop/topProducts";
+import Banner from "../ui/banner";
+import TopProducts from "../ui/shop/topProducts";
 
 export default function Home() {
   return (
